@@ -1,0 +1,18 @@
+{
+	"name": "hongjh/di",
+	"description": "Simple PHP DI class",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "hongjh",
+          "email": "565983236@qq.com"
+      }
+  ],
+	"require": {
+		"php": ">=5.3.3"
+	},
+	
+	"autoload": {
+		"psr-4": {"Hongjh\\DI\\": ""}
+	}
+}
