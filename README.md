@@ -1,4 +1,4 @@
-Router
+Di
 =====
 
 Di is a simple, open source PHP DI class. 
