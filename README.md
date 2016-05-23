@@ -1,7 +1,7 @@
 Router
 =====
 
-Router is a simple, open source PHP DI class. 
+Di is a simple, open source PHP DI class. 
 
 ### Install
 
