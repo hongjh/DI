@@ -1,5 +1,7 @@
 <?php
 
+namespace Hongjh\Di;
+
 /**
  * 简单DI注入类
  */
